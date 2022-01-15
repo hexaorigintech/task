@@ -48,7 +48,7 @@ You can now access the server at http://localhost:8000
 ## Folders
 
 - `app` - Contains all the Eloquent models
-- `app/Http/Controllers/DepartmentController` - Contains all the controllers 
+- `app/Http/Controllers` - Contains all the controllers 
 - `config` - Contains all the application configuration files
 - `Resources/views` - Contains all the application layouts and interface files 
 - `Resources/views/layouts` - Contains header and footer for dashbard 
