@@ -10,7 +10,7 @@ Please check the official laravel installation guide for server requirements bef
 Alternative installation is possible without local dependencies relying on [Docker](#docker). 
 Follow the following steps to run the application
 
-Clone the repository 
+Clone the repository and extract task.zip in htdocs/www directory on your server.
 
 Switch to the repo folder
  cd task
@@ -69,6 +69,5 @@ The project can now be accessed at
 
 ## Sample XML file for import
 sample xml file is located on root directory you can use it for import ***sample-employees.xml***
-Also you can import complete database which is placed in root directory **task.sql**
 
 
