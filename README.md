@@ -6,11 +6,10 @@
 ## Installation
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x/installation)
-
-Alternative installation is possible without local dependencies relying on [Docker](#docker). 
+ 
 Follow the following steps to run the application
 
-Clone the repository and extract task.zip in htdocs/www directory on your server.
+Clone the repository and extract task.zip in htdocs OR www directory on your server.
 
 Switch to the repo folder
  cd task
