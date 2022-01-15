@@ -5,7 +5,7 @@
 
 ## Installation
 
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.4/installation#installation)
+Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x/installation)
 
 Alternative installation is possible without local dependencies relying on [Docker](#docker). 
 Follow the following steps to run the application
@@ -51,22 +51,12 @@ You can now access the server at http://localhost:8000
 ## Folders
 
 - `app` - Contains all the Eloquent models
-- `app/Http/Controllers/Api` - Contains all the api controllers
-- `app/Http/Middleware` - Contains the JWT auth middleware
-- `app/Http/Requests/Api` - Contains all the api form requests
-- `app/RealWorld/Favorite` - Contains the files implementing the favorite feature
-- `app/RealWorld/Filters` - Contains the query filters used for filtering api requests
-- `app/RealWorld/Follow` - Contains the files implementing the follow feature
-- `app/RealWorld/Paginate` - Contains the pagination class used to paginate the result
-- `app/RealWorld/Slug` - Contains the files implementing slugs to articles
-- `app/RealWorld/Transformers` - Contains all the data transformers
+- `app/Http/Controllers/DepartmentController` - Contains all the controllers 
 - `config` - Contains all the application configuration files
-- `database/factories` - Contains the model factory for all the models
-- `database/migrations` - Contains all the database migrations
-- `database/seeds` - Contains the database seeder
-- `routes` - Contains all the api routes defined in api.php file
-- `tests` - Contains all the application tests
-- `tests/Feature/Api` - Contains all the api tests
+- `Resources/views` - Contains all the application layouts and interface files 
+- `Resources/views/layouts` - Contains header and footer for dashbard 
+- `Resources/views/departments` - Contains create, read, update and delete interfaces for deaprtments 
+- `Resources/views/employees` - Contains import, create, read, update and delete interfaces for employees  
 
 ## Environment variables
 
@@ -75,3 +65,14 @@ You can now access the server at http://localhost:8000
 ***Note*** : You can quickly set the database information and other variables in this file and have the application fully working.
 
 ----------
+
+# Testing Task
+
+Run the laravel development server
+
+    php artisan serve
+
+The project can now be accessed at
+
+    http://localhost:8000/register
+
