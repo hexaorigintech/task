@@ -76,3 +76,8 @@ The project can now be accessed at
 
     http://localhost:8000/register
 
+## Sample XML file for import
+sample xml file is located on root directory you can use it for import ***sample-employees.xml***
+Also you can import complete database which is placed in root directory **task.sql**
+
+
