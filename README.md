@@ -11,6 +11,6 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone git@github.com:hexaorigintech/task
 
 Switch to the repo folder
