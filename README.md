@@ -10,9 +10,7 @@ Please check the official laravel installation guide for server requirements bef
 Alternative installation is possible without local dependencies relying on [Docker](#docker). 
 Follow the following steps to run the application
 
-Clone the repository
-
-    git clone git@github.com:hexaorigintech/task
+Clone the repository 
 
 Switch to the repo folder
  cd task
