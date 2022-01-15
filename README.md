@@ -1,4 +1,4 @@
-# task
+# Laravel Task for Job Test
 ----------
 
 # Getting started
@@ -72,5 +72,7 @@ sample xml file is located on root directory you can use it for import ***sample
 
 # LIVE Demo
 https://task.gameandgain.in
+
 User: admin@admin.com
+
 Pass: 1234567890
