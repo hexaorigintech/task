@@ -70,7 +70,7 @@ The project can now be accessed at
 sample xml file is located on root directory you can use it for import ***sample-employees.xml***
 
 # LIVE Demo
-https://task.gameandgain.in
+https://task.gameandgain.in/public
 
 User: admin@admin.com
 
