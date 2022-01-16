@@ -9,7 +9,7 @@ Please check the official laravel installation guide for server requirements bef
  
 Follow the following steps to run the application
 
-Clone the repository and extract task.zip in htdocs OR www directory on your server.
+Clone the repository htdocs OR www directory on your server.
 
 Switch to the repo folder
  cd task
