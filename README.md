@@ -72,6 +72,6 @@ sample xml file is located on root directory you can use it for import ***sample
 # LIVE Demo
 https://task.gameandgain.in/public
 
-User: admin@admin.com
+User: admin@gmail.com
 
 Pass: 1234567890
