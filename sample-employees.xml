@@ -2,25 +2,43 @@
 <employees_list>
 
   <employee>
-    <full_name>Abbas</full_name>
-    <date_of_birth>2022-01-20</date_of_birth>
-    <department_id>1</department_id>
-    <position> mobile</position>
-    <type_of_employee>hourly</type_of_employee>
-    <number_of_hours>100</number_of_hours>
-    <amount_per_hour>400</amount_per_hour>
-    <monthly_rate></monthly_rate>
-  </employee>
-
-  <employee>
     <full_name>Bilal</full_name>
     <date_of_birth>2022-01-20</date_of_birth>
     <department_id>1</department_id>
-    <position>web </position>
+    <position>web</position>
     <type_of_employee>monthly</type_of_employee>
-    <number_of_hours></number_of_hours>
-    <amount_per_hour></amount_per_hour>
-    <monthly_rate>3000</monthly_rate>
+    <amount>0</amount>
   </employee>
-   
+  <employee>
+    <full_name>Sadam Hussain</full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position>web</position>
+    <type_of_employee>monthly</type_of_employee>
+    <amount>0</amount>
+  </employee>
+  <employee>
+    <full_name>Shahnawaz Miakhel</full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position>Part time</position>
+    <type_of_employee>monthly</type_of_employee>
+    <amount>0</amount>
+  </employee>
+  <employee>
+    <full_name>Yousaf Khan</full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position>web</position>
+    <type_of_employee>monthly</type_of_employee>
+    <amount>0</amount>
+  </employee>
+  <employee>
+    <full_name>Ahmad </full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position>web</position>
+    <type_of_employee>monthly</type_of_employee>
+    <amount>0</amount>
+  </employee>
 </employees_list>

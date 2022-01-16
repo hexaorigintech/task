@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees_list>
+
+  <employee>
+    <full_name>Abbas</full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position> mobile</position>
+    <type_of_employee>hourly</type_of_employee>
+    <number_of_hours>100</number_of_hours>
+    <amount_per_hour>400</amount_per_hour>
+    <monthly_rate></monthly_rate>
+  </employee>
+  
+  <employee>
+    <full_name>sadam</full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position> mobile</position>
+    <type_of_employee>hourly</type_of_employee>
+    <number_of_hours>100</number_of_hours>
+    <amount_per_hour></amount_per_hour>
+    <monthly_rate></monthly_rate>
+  </employee>
+
+  <employee>
+    <full_name>sadam monthly</full_name>
+    <date_of_birth>2022-01-20</date_of_birth>
+    <department_id>1</department_id>
+    <position> mobile</position>
+    <type_of_employee>monthly</type_of_employee>
+    <number_of_hours>100</number_of_hours>
+    <amount_per_hour>400</amount_per_hour>
+    <monthly_rate>3000</monthly_rate>
+  </employee>
+   
+</employees_list>
